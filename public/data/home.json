@@ -1,5 +1,5 @@
 {
   "documentDescription": "This is home, here the start",
   "documentTitle": "Home",
-  "documentImage": "/public/images/home.jpg"
+  "documentImage": "https://seo-exp.vercel.app/public/images/home.jpg"
 }
